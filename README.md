@@ -1,4 +1,7 @@
 ## Laravel-Docker-App
+    - PHP 7.4
+    - MySql
+    - Nginx
 
 ## Setup
 ```
